@@ -9,3 +9,7 @@ Ejercicios de Javascript
 4to commit ejercicios de arrays, tomo tiempo acostumbrame a los metodos y todavia necesito entender como algunos metodos crean una lista nueva y cuales no.
 
 5to commit ejercicios de if else. Los enunciados eran claros y el sistema if else es bastante directo.
+
+6to commit ejercicio con sentencia FOR, realizamos bucles para usar y modificar un array.
+
+7mo commit ejercicios de funciones, tomo algo de trabajo ordenar los valores y configurar correctamente lso if-else. 
