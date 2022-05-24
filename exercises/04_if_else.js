@@ -7,12 +7,12 @@
 
 
 /*Alerta de Edades*/
-var age = 65
-if(age < 18)
-    alert("MENOR")
-    else if(age >= 18 && age < 65)
-    alert("MAYOR")
-    else
-    alert("JUBILADO")
+// var age = 65
+// if(age < 18)
+//     alert("MENOR")
+//     else if(age >= 18 && age < 65)
+//     alert("MAYOR")
+//     else
+//     alert("JUBILADO")
 
 
